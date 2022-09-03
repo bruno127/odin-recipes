@@ -1,2 +1,2 @@
 # odin-recipes
-This are my first web pages written in Croatian. Welcome :)
+This is my first web page written in Croatian. Welcome :)
